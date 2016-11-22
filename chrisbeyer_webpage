@@ -1,0 +1,38 @@
+<html>
+
+  <head>
+    <title>Multi-Media Journalist & Producer</title>
+  </head>
+
+    <body>
+      <h1>BIG</h1>
+      <h2>pretty big but still</h2>
+      <h3>not really big</h3>
+      <p>
+      This is <strong>bold</strong><br>
+      this is <em>italic</em></br>
+      </p>
+      <p>
+      This is <strong>bold</strong>
+      this is <em>italic</em>
+      </p>
+      <p>
+      This is <strong>bold</strong>
+      this is <em>italic</em>
+      </p>
+      <a href="http://www.google.com">google.com</a>
+
+      <br><img src="">http://4810-presscdn-0-38.pagely.netdna-cdn.com/wp-content/uploads/2013/11/radio-station.jpg</img></br>
+
+      <ul>
+          <li>item 1</li>
+          <li>item 2</li>
+      </ul>
+
+      <ol>
+        <li>item 1</li>
+        <li>item 2</li>
+      </ol>
+
+    </body>
+</html>
