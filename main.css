@@ -2,3 +2,17 @@ body {
   background:red;
   font-family: arial;
 }
+
+h1, h2 {
+  color: #555;
+}
+
+a {
+  color: green;
+}
+
+p {
+  background: #666;
+  color: white;
+  padding: 10px;
+}
