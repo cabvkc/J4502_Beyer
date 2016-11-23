@@ -16,3 +16,13 @@ p {
   color: white;
   padding: 10px;
 }
+
+.secondary {
+  background: none;
+  color: #555;
+}
+
+#special {
+  background: red;
+  color: white;
+}
